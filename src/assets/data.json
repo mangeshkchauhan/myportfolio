@@ -1,0 +1,48 @@
+{
+	"projects": [
+		{
+			"date": "07/10/2022",
+			"title": "Cryptonics",
+			"description": "Cryptonics is a one stop destination for all the exchanges and crypto coins available. We provide you with all data you need to analye a crypto coin. You name the coin, we have the coin.",
+			"url": "https://cryptonics.vercel.app/",
+			"imgSrc": "https://cdn.pixabay.com/photo/2018/01/18/07/31/bitcoin-3089728_960_720.jpg"
+		},
+
+		{
+			"date": "11/10/2022",
+			"title": "Recipicious",
+			"description": "Recipiciousss is something I have build with my passion for cooking. It takes care of your recipes and you can find any recipe. You can cook anything delicious with RECIPICIOUSSS .",
+			"url": "https://recipeciousss.vercel.app/",
+			"imgSrc": "https://cdn.pixabay.com/photo/2018/04/18/16/49/food-3330889_960_720.jpg"
+		},
+		{
+			"date": "15/10/2022",
+			"title": "Restaurant Menu",
+			"description": "When you start learning something you have to start somewhere, This is to showcase my begining of web development.",
+			"url": "https://restaurant-menu-mangeshkchauhan.vercel.app/",
+			"imgSrc": "https://cdn.pixabay.com/photo/2015/03/17/11/36/blackboard-677578_960_720.jpg"
+		},
+
+		{
+			"date": "17/10/2022",
+			"title": "Dummy Youtube",
+			"description": "It is youtube with minimal design. You can watch anything you want on click of search.",
+			"url": "https://utube-hooks-liard.vercel.app/",
+			"imgSrc": "https://cdn.pixabay.com/photo/2021/09/13/15/59/youtube-6621791_960_720.jpg"
+		},
+		{
+			"date": "20/10/2022",
+			"title": "PORTFOLIO",
+			"description": "This is my baby which will showcase all the experiences and acheivements I have. You can here me on this website on click of a button.",
+			"url": "/",
+			"imgSrc": "https://cdn.pixabay.com/photo/2019/03/16/22/06/sitemap-4059862_960_720.jpg"
+		},
+		{
+			"date": "25/11/2022",
+			"title": "Goal setter",
+			"description": "This is a goal setter app with user authentication. You can set goals and check your goals and keep working towards your goal",
+			"url": "https://logingoalapp.herokuapp.com",
+			"imgSrc": "https://cdn.pixabay.com/photo/2016/07/13/06/51/target-1513758_960_720.jpg"
+		}
+	]
+}
